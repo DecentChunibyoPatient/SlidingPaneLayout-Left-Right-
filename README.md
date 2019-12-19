@@ -2,7 +2,7 @@
 SlidingPaneLayout_Left&amp;right_安卓左滑&amp;右滑关闭
 ![效果](https://github.com/DecentChunibyoPatient/SlidingPaneLayout-Left-Right-/blob/master/1.gif)
 
-
+#### 主要代码
 
 package cf.paradoxie.swipebackdemo;/**
  * Created by xiehehe on 2016/10/28.
@@ -134,3 +134,5 @@ public class BaseActivity extends Activity implements SlidingPaneLayout.PanelSli
     }
 }
 
+
+####
