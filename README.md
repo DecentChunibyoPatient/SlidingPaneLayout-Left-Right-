@@ -134,5 +134,3 @@ public class BaseActivity extends Activity implements SlidingPaneLayout.PanelSli
     }
 }
 
-
-####
